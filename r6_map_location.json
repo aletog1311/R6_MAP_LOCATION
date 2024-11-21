@@ -52,7 +52,7 @@
   {
     "id": 11,
     "Name": "GRATTACIELO",
-    "coordinates": [35.689453125, 139.750244140625]
+    "coordinates": [35.6586, 139.7454]
   },
   {
     "id": 12,
@@ -62,16 +62,16 @@
   {
     "id": 13,
     "Name": "VILLA",
-    "coordinates": [30.556640625, -9.1552734375]
+    "coordinates": [43.11177223354457, 13.54036028551205]
   },
   {
     "id": 14,
-    "Name": "FAVELA",
-    "coordinates": [-22.908203125, -43.1982421875]
+    "Name": "FAVELAS",
+    "coordinates": [-22.915055565984286, -43.37326404689664]
   },
   {
     "id": 15,
-    "Name": "CANALE",
-    "coordinates": [53.544921875, -2.9150390625]
+    "Name": "KANAL",
+    "coordinates": [53.5404, 9.9841]
   }
 ]
