@@ -56,11 +56,12 @@
   },
   {
     "id": 12,
-    "Name": "CHALET"
+    "Name": "CHALET",
     "coordinates": 45.86378612788604, 6.922832494447369
   },
   {
-    "Name": "CHALET"
+    "id":13,
+    "Name": "KANAL",
     "coordinates": 53.558118894893, 9.8618630546625
-  },
+  }
 ]
