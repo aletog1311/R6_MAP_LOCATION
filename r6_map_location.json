@@ -1,50 +1,61 @@
 [
   {
+    "id": 1,
     "Name": "CAFE",
     "coordinates": 55.76381163330805, 37.60492389317743
   },
   {
+    "id": 2,
     "Name": "OREGON",
     "coordinates": 31.59589956910735, -96.98791433742858
   },
   {
+    "id": 3,
     "Name": "AEREO",
     "coordinates": 38.796362500649835, -76.88896933484094
   },
   {
+    "id": 4,
     "Name": "CONSOLATO",
     "coordinates": 31.200742665528114, 29.895875727423984
   },
   {
+    "id": 5,
     "Name": "BANCA",
     "coordinates": 38.91993393178424, -77.01983404618541
   },
   {
+    "id": 6,
     "Name": "YACHT",
     "coordinates": 43.69348293699653, 7.2999829395263705
   },
-
   {
+    "id": 7,
     "Name": "CLUBHOUSE",
     "coordinates": 52.37771581444163, 9.730088229196806
   },
   {
+    "id": 8,
     "Name": "FORTEZZA",
     "coordinates": 31.746722209892003, 35.205569862507005
   },
   {
+    "id": 9,
     "Name": "BASE DI HEREFORD",
     "coordinates": 52.08747363559321, -2.7933724512017
   },
   {
+    "id": 10,
     "Name": "CASA",
     "coordinates": 37.06646278605785, -85.08383665957285
   },
   {
+    "id": 11,
     "Name": "BASE DI HEREFORD",
     "coordinates": 52.08747363559321, -2.7933724512017
   },
   {
+    "id": 12,
     "Name": "CHALET"
     "coordinates": 45.86378612788604, 6.922832494447369
   },
