@@ -2,76 +2,91 @@
   {
     "id": 1,
     "Name": "CAFE",
-    "coordinates": [55.76381163330805, 37.60492389317743]
+    "coordinates": [55.76381163330805, 37.60492389317743],
+    "image": https://raw.githubusercontent.com/aletog1311/Image_mapR6/main/café.avif
   },
   {
     "id": 2,
     "Name": "OREGON",
-    "coordinates": [31.59589956910735, -96.98791433742858]
+    "coordinates": [31.59589956910735, -96.98791433742858],
+    "image": https://raw.githubusercontent.com/aletog1311/Image_mapR6/main/oregon.avif
   },
   {
     "id": 3,
     "Name": "AEREO",
-    "coordinates": [38.796362500649835, -76.88896933484094]
+    "coordinates": [38.796362500649835, -76.88896933484094],
+    "image": https://raw.githubusercontent.com/aletog1311/Image_mapR6/main/aereo.jpg
   },
   {
     "id": 4,
     "Name": "CONSOLATO",
-    "coordinates": [31.200742665528114, 29.895875727423984]
+    "coordinates": [31.200742665528114, 29.895875727423984],
+    "image": https://raw.githubusercontent.com/aletog1311/Image_mapR6/main/consolato.jpeg
   },
   {
     "id": 5,
     "Name": "BANCA",
-    "coordinates": [38.91993393178424, -77.01983404618541]
+    "coordinates": [38.91993393178424, -77.01983404618541],
+    "image": https://raw.githubusercontent.com/aletog1311/Image_mapR6/main/bancaavif.avif
   },
   {
     "id": 6,
     "Name": "YACHT",
-    "coordinates": [43.69348293699653, 7.2999829395263705]
+    "coordinates": [43.69348293699653, 7.2999829395263705],
+    "image": https://raw.githubusercontent.com/aletog1311/Image_mapR6/main/yacht.avif
   },
   {
     "id": 7,
     "Name": "CLUBHOUSE",
-    "coordinates": [52.37771581444163, 9.730088229196806]
+    "coordinates": [52.37771581444163, 9.730088229196806],
+    "image": https://raw.githubusercontent.com/aletog1311/Image_mapR6/main/clubhouse.avif
   },
   {
     "id": 8,
     "Name": "FORTEZZA",
-    "coordinates": [31.746722209892003, 35.205569862507005]
+    "coordinates": [31.746722209892003, 35.205569862507005],
+    "image": https://raw.githubusercontent.com/aletog1311/Image_mapR6/main/fortezza.avif
   },
   {
     "id": 9,
     "Name": "BASE DI HEREFORD",
-    "coordinates": [52.08747363559321, -2.7933724512017]
+    "coordinates": [52.08747363559321, -2.7933724512017],
+    "image": https://raw.githubusercontent.com/aletog1311/Image_mapR6/main/basehereford.avif
   },
   {
     "id": 10,
     "Name": "CASA",
-    "coordinates": [41.890210205078125, 12.492256164550781]
+    "coordinates": [41.890210205078125, 12.492256164550781],
+    "image": https://raw.githubusercontent.com/aletog1311/Image_mapR6/main/casa.jpg
   },
   {
     "id": 11,
     "Name": "GRATTACIELO",
-    "coordinates": [35.6586, 139.7454]
+    "coordinates": [35.6586, 139.7454],
+    "image": https://raw.githubusercontent.com/aletog1311/Image_mapR6/main/grattacielo.jpg
   },
   {
     "id": 12,
     "Name": "PARCO DIVERTIMENTI",
-    "coordinates": [33.8076171875, -84.4140625]
+    "coordinates": [33.8076171875, -84.4140625],
+    "image": https://raw.githubusercontent.com/aletog1311/Image_mapR6/main/parco.jpg
   },
   {
     "id": 13,
     "Name": "VILLA",
-    "coordinates": [43.11177223354457, 13.54036028551205]
+    "coordinates": [43.11177223354457, 13.54036028551205],
+    "image": https://raw.githubusercontent.com/aletog1311/Image_mapR6/main/villa.jpg
   },
   {
     "id": 14,
     "Name": "FAVELAS",
-    "coordinates": [-22.915055565984286, -43.37326404689664]
+    "coordinates": [-22.915055565984286, -43.37326404689664],
+    "image": https://raw.githubusercontent.com/aletog1311/Image_mapR6/main/favelas.jpg
   },
   {
     "id": 15,
     "Name": "KANAL",
-    "coordinates": [53.5404, 9.9841]
+    "coordinates": [53.5404, 9.9841],
+    "image": https://raw.githubusercontent.com/aletog1311/Image_mapR6/main/kanal.jpg
   }
 ]
